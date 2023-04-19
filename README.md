@@ -12,7 +12,11 @@
 
 <h2>Funcionalidades</h2>
 <ul>
-    <li>Criação de uma pagina estatico do youtube, praticando tecnicas com display flex.</li>
+    <li>Replicação fiel da aparência da página inicial do YouTube, incluindo o cabeçalho, barra de pesquisa, lista de vídeos recomendados.</li>
+    <li>Uso de elementos HTML semânticos para estruturar corretamente o conteúdo, proporcionando uma acessibilidade adequada e melhorando a otimização para mecanismos de busca.</li>
+    <li>Utilização de técnicas de design modernas, como o uso de flexbox para criar um layout flexível e responsivo.</li>
+    <li>Uso de estilos CSS personalizados para replicar os estilos visuais do YouTube, incluindo cores, fontes, tamanhos de texto, margens e preenchimentos.</li>
+    <li>Incorporação de ícones e imagens relevantes para melhorar a aparência geral do clone e torná-lo visualmente atraente.</li>
 </ul>
 
 <h2>Como utilizar</h2>
