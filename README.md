@@ -1,7 +1,7 @@
 <h1>Projeto: Clonando pagina do youtube</h1>
 <p>Este projeto tem como objetivo estudar e aprimorar habilidades em CSS, almejando focar em um bom resultado trabalhando em um projeto prático. A ideia é criar uma uma pagina estatica do youtube.</p><hr>
 <p align="center">
-  <img src="" alt="Exemplo de projeto" />
+  <img src="Captura de tela 2023-04-20 174841.jpg" alt="Exemplo de projeto" />
 </p>
 
 <h2>Tecnologias Utilizadas</h2>
