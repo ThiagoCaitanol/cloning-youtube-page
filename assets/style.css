@@ -66,7 +66,6 @@ main {
     flex-direction: column;
     width: 65%;
     height: 90%;
-    background-color: aqua;
     margin: 7px 0 0 60px;
     flex-wrap: nowrap;
 }
@@ -89,15 +88,13 @@ main {
 
 h2 {
 width: 100%;
-height: 80%;
-
+height: 23px;
+margin-bottom: 10px;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 600;
-font-size: auto;
-line-height: 80%;
-
 color: #000000;
+font-size: larger;
 }
 
 #video {
@@ -110,13 +107,73 @@ color: #000000;
 }
 
 #description {
-    position: ;
-    display: inline-block;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
     top: 10%;
+    gap: 20px;
 }
 
 #channel {
+    position: relative;
+    width: 150px;
+    height: 42px;
     display: flex;
-    align-items: flex-start;
-    gap: 10px;
+    
+}
+
+
+
+#dioinfo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    padding-left: 5px;
+}
+
+#dioinfo h3{
+    padding-top: 5px;
+
+    width: 106px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#dioinfo p {
+    width: 106px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 16px;
+}
+
+#principal h3{
+   padding-top: 5px;
+    width: 391px;
+height: 16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+}
+
+#principal p {
+    width: 510px;
+height: 64px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #515151;
 }
