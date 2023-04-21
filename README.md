@@ -1,5 +1,5 @@
-<h1>Projeto: Clonando pagina do youtube</h1>
-<p>Este projeto tem como objetivo estudar e aprimorar habilidades em CSS, almejando focar em um bom resultado trabalhando em um projeto prático. A ideia é criar uma uma pagina estatica do youtube.</p><hr>
+<h1>Projeto: Clonando pagina do youtube FLEX</h1>
+<p>Este projeto tem como objetivo estudar e aprimorar habilidades em CSS, almejando focar em um bom resultado trabalhando em um projeto prático. A ideia é criar uma uma pagina estatica do youtube enquanto coloco em pratica todo aprendizado que obtive com display: flex.</p><hr>
 <p align="center">
   <img src="Captura de tela 2023-04-20 174841.jpg" alt="Exemplo de projeto" />
 </p>
@@ -22,7 +22,7 @@
 <h2>Como utilizar</h2>
 <ol>Clone este repositório em seu computador:</ol>
 <pre><code class="language-bash">
-  git clone https://github.com/ThiagoCaitanol/cloning-youtube-page
+  git clone https://github.com/ThiagoCaitanol/cloning-youtube-page-flex
 </code></pre>
 <ol>Abra o arquivo index.html no navegador de sua preferência.</ol>
 
